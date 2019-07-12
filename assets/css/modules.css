@@ -341,7 +341,7 @@ button,
 
     #header .icons {
         font-size: 0.8em;
-        text-align: center;
+        text-align: right;
     }
 
         #header .icons a {
@@ -515,7 +515,7 @@ button,
         }
 
         #main > section.two {
-            background-color: #f5fafa;
+            background-color: #BCC6D2;
         }
 
         #main > section.three {
@@ -529,7 +529,9 @@ button,
     .about {
         text-align: justify;
     }
-
+ h2 {
+    text-align: center;
+}
 
 /* Narrow */
 
@@ -635,6 +637,7 @@ button,
         ul.icons a {
             width: 1.75em;
             font-size: 1.25em;
+            text-align: right;
         }
 
     /* Header */

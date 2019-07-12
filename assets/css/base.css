@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
 
+
 /* Basic */
 
 html {
@@ -44,6 +45,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
     color: #666;
     line-height: 1.5em;
+    font-family: 'Contrail One', cursive;
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -138,5 +140,8 @@ p, ul, ol, dl, table {
 
 br.clear {
     clear: both;
+}
+.icons {
+    text-align: right;
 }
 
