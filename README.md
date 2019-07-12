@@ -9,7 +9,7 @@ Start time: 10am
 
 Finish time: 12pm
 
-Actual time needed to complete: ?
+Actual time needed to complete: 2h
 
 Feature #2: Feature #2: Modify the contents
 
@@ -19,4 +19,8 @@ Start time: 12am
 
 Finish time: 1pm
 
-Actual time needed to complete:  ?
+Actual time needed to complete:  1h
+
+
+
+* Saint-Petersburg photo:  Andrey Pashkevich http://www.anpash.ru 
